@@ -1,5 +1,6 @@
 # erroneous_data_detection
 
+Python3 - Version 3.7
 
 Libraries Used:
 
